@@ -43,6 +43,10 @@
             dataDiri.addEventListener("submit" ,function(){
              const nama = document.getElementById('nama').value;
              const alamat = document.getElementById('domisili').value;
+             
+             const pesana = "hallo "+nama+" bagaimana cuacanya di "+alamat+" !! sekarang";
+             
+             
            
 
          });
